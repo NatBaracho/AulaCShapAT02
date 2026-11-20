@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\Conversortemperatura.App\\ConversorTemperatura.App.csproj": {}
+    "c:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\Conversortemperatura.App\\ConversorTemperatura.App.csproj": {
+    "c:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\Conversortemperatura.App\\ConversorTemperatura.App.csproj",
+        "projectUniqueName": "c:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
         "projectName": "ConversorTemperatura.App",
-        "projectPath": "C:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\Conversortemperatura.App\\ConversorTemperatura.App.csproj",
+        "projectPath": "c:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
         "packagesPath": "C:\\Users\\natan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\Conversortemperatura.App\\obj\\",
+        "outputPath": "c:\\Users\\natan\\Documents\\Atividade\\AulaCShapAT02\\ConversorTemperatura.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
